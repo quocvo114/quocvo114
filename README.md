@@ -2,7 +2,7 @@
 
 # 🌌 Welcome to my universe!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;Open+to+Collaboration;.NET+%7C+Python+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;Open+to+Collaboration;NodeJS+%7C+JavaScript+%7C+React)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 💻 About Me
 
-- 🎯 **Current Focus:** Crafting applications with **NodeJS** and **React**
+- 🎯 **Current Focus:** Crafting applications with **React** and **NodeJS**
 - 📚 **Learning Next:** Mastering Cloud Solutions **(AWS/GCP)** and **DevOps**
 - 🌏 **Location:** Vietnam 🇻🇳
 - ⚡ **Fun fact:** I debug with coffee ☕ and ship with passion 🚀
