@@ -2,7 +2,7 @@
 
 # 🌌 Welcome to my universe!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Tech+Enthusiast;Open+to+Collaboration;NodeJS+%7C+JavaScript+%7C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+JavaScript+%7C+NodeJS)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🚀 Tech Universe
+## 🚀 My Tech
 
 <div align="center">
 
