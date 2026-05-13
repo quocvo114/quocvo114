@@ -12,7 +12,6 @@
 
 - 🎯 **Current Focus:** Crafting applications with **NodeJS** and **React**
 - 📚 **Learning Next:** Mastering Cloud Solutions **(AWS/GCP)** and **DevOps**
-- 🤝 **Collaborations:** Open to discussions on **AI/ML**, **Web3**, and **Blockchain**
 - 🌏 **Location:** Vietnam 🇻🇳
 - ⚡ **Fun fact:** I debug with coffee ☕ and ship with passion 🚀
 
