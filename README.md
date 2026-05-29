@@ -80,9 +80,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=quocvo114&show_icons=true&theme=tokyonight&hide_border=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=quocvo114&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180em" src="./profile/stats.svg" />
+<img height="180em" src="./profile/langs.svg" />
 
 </div>
 
