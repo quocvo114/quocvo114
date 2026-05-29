@@ -56,7 +56,15 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,nodejs,express,bootstrap,tailwind,mongodb,postgres,supabase,firebase,linux,docker,vercel,postman,git,github&theme=dark&perline=9)](https://skillicons.dev)
+<div align="center">
+
+[![](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,nodejs,express&theme=dark)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=bootstrap,tailwind,mongodb,postgres,firebase,docker&theme=dark)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=postman,git,github&theme=dark)](https://skillicons.dev)
+
+</div>
 
 </div>
 
