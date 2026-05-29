@@ -56,15 +56,11 @@
 
 <div align="center">
 
-<div align="center">
-
 [![](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,nodejs,express&theme=dark)](https://skillicons.dev)
 
 [![](https://skillicons.dev/icons?i=bootstrap,tailwind,mongodb,postgres,firebase,docker&theme=dark)](https://skillicons.dev)
 
 [![](https://skillicons.dev/icons?i=postman,git,github&theme=dark)](https://skillicons.dev)
-
-</div>
 
 </div>
 
