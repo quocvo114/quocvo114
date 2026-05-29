@@ -56,7 +56,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,nodejs,express,bootstrap,tailwind,mongodb,postgres,supabase,firebase,linux,docker,vercel,postman,git,github,vscode&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,vite,nextjs,nodejs,express,bootstrap,tailwind,mongodb,postgres,supabase,firebase,linux,docker,vercel,postman,git,github&theme=dark&perline=7)](https://skillicons.dev)
 
 </div>
 
